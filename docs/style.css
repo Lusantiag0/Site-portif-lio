@@ -224,6 +224,7 @@ header.scrolled .logo {
   border-radius: 10px;
   border: 1px solid #222;
   width: 100%; 
+  text-align: center;
 }
 
 .project-card h3 {
@@ -287,3 +288,4 @@ header.scrolled .logo {
 .contact-item a:hover {
   color: #FFD400;
 }
+
